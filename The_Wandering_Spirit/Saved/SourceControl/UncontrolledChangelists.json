@@ -1,0 +1,20 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/user/Documents/Unreal Projects/game2/GamePototype/The_Wandering_Spirit/Content/Character_Model/MainCharacter/test__1__Skeleton.uasset",
+				"C:/Users/user/Documents/Unreal Projects/game2/GamePototype/The_Wandering_Spirit/Content/Character_Model/MainCharacter/test__1__PhysicsAsset.uasset",
+				"C:/Users/user/Documents/Unreal Projects/game2/GamePototype/The_Wandering_Spirit/Content/Character_Model/MainCharacter/test__1__Anim_mixamo_com.uasset",
+				"C:/Users/user/Documents/Unreal Projects/game2/GamePototype/The_Wandering_Spirit/Content/Character_Model/MainCharacter/test__1_.uasset",
+				"C:/Users/user/Documents/Unreal Projects/game2/GamePototype/The_Wandering_Spirit/Content/Character_Model/MainCharacter/standardSurface1.uasset",
+				"C:/Users/user/Documents/Unreal Projects/game2/GamePototype/The_Wandering_Spirit/Content/Character_Model/MainCharacter/lambert2.uasset",
+				"C:/Users/user/Documents/Unreal Projects/game2/GamePototype/The_Wandering_Spirit/Content/Character_Model/MainCharacter/lambert1.uasset",
+				"C:/Users/user/Documents/Unreal Projects/The_Wandering_Spirit/Content/map/MapPototype.umap",
+				"C:/Users/user/Documents/Unreal Projects/The_Wandering_Spirit/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+			]
+		}
+	]
+}

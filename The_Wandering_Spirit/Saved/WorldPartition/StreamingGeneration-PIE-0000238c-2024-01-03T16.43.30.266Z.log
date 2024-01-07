@@ -1,0 +1,59 @@
+[+] Containers:
+ |- [+] Container: /Temp/Untitled_3
+ |   |- [+] ActorDescs:
+ |   |   |- Guid:06EB7EF644977A8929578FB59F451E1A BaseClass: NativeClass:/Script/NavigationSystem.RecastNavMesh Name:RecastNavMesh_UAID_74563C939EE212CC01-Default Label:RecastNavMesh-Default SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:10CD1E264DCAEA3EAC21EF92B591B8BF BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:301C453D489C3325D1A3B4840DF68D4D BaseClass:/Game/SideScroller3DvS/Blueprints/BP_PlayerMark.BP_PlayerMark_C NativeClass:/Script/Engine.Actor Name:BP_PlayerMark_C_UAID_74563C939EE212CC01_1297926756 Label:BP_PlayerMark SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=395.000 Y=-210.000 Z=142.000), Max=(X=660.000 Y=-50.000 Z=302.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 Parent:802CA34E49B074B741E8BFA9027D1FE0
+ |   |   |- Guid:43E622644AA4C706FB9F789A10714B05 BaseClass: NativeClass:/Script/NavigationSystem.NavMeshBoundsVolume Name:NavMeshBoundsVolume_UAID_74563C939EE212CC01_1250638753 Label:NavMeshBoundsVolume SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-1049.833 Y=-1336.559 Z=-822.906), Max=(X=2093.833 Y=1546.559 Z=1122.906) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:7D0B59BA411A064F733FEBB917B6D73B BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_74563C939EE212CC01_1236681752 Label:Cube SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1026.612 Y=-1039.180 Z=50.000), Max=(X=1754.612 Y=1109.180 Z=150.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:802CA34E49B074B741E8BFA9027D1FE0 BaseClass: NativeClass:/Script/Engine.PlayerStart Name:PlayerStart_UAID_74563C939EE212CC01_1305041757 Label:PlayerStart SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=389.000 Y=-124.000 Z=150.000), Max=(X=469.000 Y=-44.000 Z=334.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:E073E56847EE3848AFC991B0E2155BEE BaseClass:/Game/AI/AI.AI_C NativeClass:/Script/Engine.Character Name:AI_C_UAID_74563C939EE212CC01_1266244755 Label:AI SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=27.000 Y=-223.000 Z=148.255), Max=(X=127.000 Y=-123.000 Z=314.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |- [+] Clusters:
+ |   |   |- [+] [  0]
+ |   |   |   |- Guid:10CD1E264DCAEA3EAC21EF92B591B8BF BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  1]
+ |   |   |   |- Guid:7D0B59BA411A064F733FEBB917B6D73B BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_74563C939EE212CC01_1236681752 Label:Cube SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1026.612 Y=-1039.180 Z=50.000), Max=(X=1754.612 Y=1109.180 Z=150.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [  2]
+ |   |   |   |- Guid:43E622644AA4C706FB9F789A10714B05 BaseClass: NativeClass:/Script/NavigationSystem.NavMeshBoundsVolume Name:NavMeshBoundsVolume_UAID_74563C939EE212CC01_1250638753 Label:NavMeshBoundsVolume SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-1049.833 Y=-1336.559 Z=-822.906), Max=(X=2093.833 Y=1546.559 Z=1122.906) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  3]
+ |   |   |   |- Guid:06EB7EF644977A8929578FB59F451E1A BaseClass: NativeClass:/Script/NavigationSystem.RecastNavMesh Name:RecastNavMesh_UAID_74563C939EE212CC01-Default Label:RecastNavMesh-Default SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  4]
+ |   |   |   |- Guid:E073E56847EE3848AFC991B0E2155BEE BaseClass:/Game/AI/AI.AI_C NativeClass:/Script/Engine.Character Name:AI_C_UAID_74563C939EE212CC01_1266244755 Label:AI SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=27.000 Y=-223.000 Z=148.255), Max=(X=127.000 Y=-123.000 Z=314.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  5]
+ |   |   |   |- Guid:301C453D489C3325D1A3B4840DF68D4D BaseClass:/Game/SideScroller3DvS/Blueprints/BP_PlayerMark.BP_PlayerMark_C NativeClass:/Script/Engine.Actor Name:BP_PlayerMark_C_UAID_74563C939EE212CC01_1297926756 Label:BP_PlayerMark SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=395.000 Y=-210.000 Z=142.000), Max=(X=660.000 Y=-50.000 Z=302.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 Parent:802CA34E49B074B741E8BFA9027D1FE0
+ |   |   |- [+] [  6]
+ |   |   |   |- Guid:802CA34E49B074B741E8BFA9027D1FE0 BaseClass: NativeClass:/Script/Engine.PlayerStart Name:PlayerStart_UAID_74563C939EE212CC01_1305041757 Label:PlayerStart SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=389.000 Y=-124.000 Z=150.000), Max=(X=469.000 Y=-44.000 Z=334.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |- ContainerInstances:
+ |- [+] MainContainer:
+ |   |-        ID: 0x0000000000000000
+ |   |-    Bounds: IsValid=true, Min=(X=-1026.612 Y=-1039.180 Z=50.000), Max=(X=1754.612 Y=1109.180 Z=314.000)
+ |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |- Container: /Temp/Untitled_3
+----------------------------------------------------------------------------------------------------------------
+Untitled - Persistent Level
+----------------------------------------------------------------------------------------------------------------
+Always loaded Actor Count: 18 
+
+----------------------------------------------------------------------------------------------------------------
+Untitled - Runtime Spatial Hash - Streaming Grid - MainGrid
+----------------------------------------------------------------------------------------------------------------
+            Origin: X=0.000 Y=0.000 Z=0.000
+         Cell Size: 12800
+      World Bounds: IsValid=true, Min=(X=-1026.612 Y=-1039.180 Z=50.000), Max=(X=1754.612 Y=1109.180 Z=314.000)
+     Loading Range: 25600.00
+Block Slow Loading: No
+ ClientOnlyVisible: No
+
+[+] Grid Levels: 2
+ |- Level  0: Cell Count    1 | Cell Size   12800 | Actor Count    2 (100.0%)
+ |- Level  1: Cell Count    0 | Cell Size   25600 | Actor Count    0 (0.0%)
+
+[+] Content of Grid Level 0
+ |- [+] Content of Cell MainGrid_L0_X0_Y-1
+ |   |- Actor Count: 2
+ |   |- Actor Path: /Temp/Untitled_3.Untitled:PersistentLevel.AI_C_UAID_74563C939EE212CC01_1266244755
+ |   |- Actor Package: /Temp/__ExternalActors__/Untitled_3/9/YH/YEFZHIXG8RYBRBUM63FZZU
+ |   |- Actor Path: /Temp/Untitled_3.Untitled:PersistentLevel.BP_PlayerMark_C_UAID_74563C939EE212CC01_1297926756
+ |   |- Actor Package: /Temp/__ExternalActors__/Untitled_3/3/49/2SF4XGZN01XIMSLOY7R17Q
+[+] Content of Grid Level 1
+
