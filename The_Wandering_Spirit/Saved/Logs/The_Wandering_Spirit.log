@@ -1100,3 +1100,4 @@ connect: 18.143.88.213:1666: WSAETIMEDOUT, A connection attempt failed because t
 [2024.02.04-16.20.07:643][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.2/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
 [2024.02.04-16.20.07:652][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.2/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
 [2024.02.04-16.20.07:658][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.2/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2024.02.04-17.19.27:530][  0]LogDerivedDataCache: C:/Users/safui/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:16.801 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 8603 files in 10582 folders with total size 518 MiB.
